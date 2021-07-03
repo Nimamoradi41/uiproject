@@ -22,6 +22,7 @@ environment:
 
 dependencies:
   flutter_svg: ^0.22.0
+  flutter_rating_bar: ^4.0.0
 
   flutter:
     sdk: flutter
@@ -50,6 +51,7 @@ flutter:
   assets:
      - assets/facee.png
      - assets/blacksmith.svg
+     - assets/male.svg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
